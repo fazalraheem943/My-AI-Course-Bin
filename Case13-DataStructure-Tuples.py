@@ -1,3 +1,4 @@
+
 # Note : In case of list, we use square
 # brackets []. Here we use round brackets ()
 t = (10, 20, 30) 
