@@ -1,1 +1,2 @@
-print("welcome to my python list")
+cutomerlist=["fazal",2344,23.6,"lahore",True]
+print(customerlist)
